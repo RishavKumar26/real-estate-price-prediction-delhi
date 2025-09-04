@@ -34,5 +34,10 @@ This project focuses on predicting real estate prices in Delhi using Machine Lea
 
 ---
 
-## ✍️ Author
-**Rishav Kumar**
+## ✍️ Author  
+**Project By -   Rishav Kumar**  
+
+**[GitHub](https://github.com/RishavKumar26)**  
+
+**[LinkedIn](https://www.linkedin.com/in/rishav-kumar-8315b324a/)**  
+
